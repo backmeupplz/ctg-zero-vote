@@ -1,13 +1,4 @@
-# Solidity Ethereum smart contract starter
-
-Heavily influenced by the [Big Whale Labs repos](https://github.com/BigWhaleLabs).
-
-## Usage
-
-1. Clone the repository with `git clone git@github.com:Borodutch/smart-contract-starter`
-2. Install the dependencies with `yarn`
-3. Add environment variables to your `.env` file
-4. Run the scripts below
+# Smart contract to achieve zero votes in CTG
 
 ## Environment variables
 
@@ -19,6 +10,16 @@ Heavily influenced by the [Big Whale Labs repos](https://github.com/BigWhaleLabs
 | `COINMARKETCAP_API_KEY`      | Coinmarketcap API key                                     |
 
 Also check out the `.env.sample` file for more information.
+
+## Deployments
+
+### Mainnet
+
+``
+
+### Testnet
+
+`0x3F74715414998C97875B5Cc37f086e97706BeD38`
 
 ## Available scripts
 
